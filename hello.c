@@ -2,6 +2,7 @@
 
 int main(void)
 {
-	printf("Hello, World!\n");
+	char message[] = "Hello, World!";
+	printf("%s\n", message);
 	return 0;
 }
