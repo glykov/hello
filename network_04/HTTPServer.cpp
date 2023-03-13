@@ -53,7 +53,7 @@ private:
 				return;
 			}
 			else {
-				// In case of any other error – 
+				// In case of any other error ï¿½ 
 				// close the socket and clean up.
 				on_finish();
 				return;
